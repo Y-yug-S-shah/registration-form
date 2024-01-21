@@ -1,0 +1,57 @@
+body {
+    background-image: url("fo.png");
+    background-color: lavenderblush;
+    margin: 30px;
+    font-family: sans-serif;
+  }
+  
+  form fieldset {
+    border: 10px solid red;
+    padding: 15px;
+    margin-right: 5px;
+  }
+  
+  label {
+    color: whitesmoke;
+    display: block;
+    margin-bottom: 5px;
+    margin-right: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  select {
+    width: 80%;
+    padding: 10px;
+    border: 10px solid lightcoral;
+    margin-bottom: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    padding: 8px;
+    border: 1px solid whitesmoke;
+  }
+  
+  h1 {
+    color: lightpink;
+    box-shadow: 10px 10px lightpink;
+    width: 800px;
+    height: 20px;
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+    padding-bottom: 30px;
+    border: 10px solid red; 
+  }
+
+  legend, th, td{
+    color: white;
+  }
+
+
