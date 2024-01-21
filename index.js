@@ -1,1 +1,3 @@
-alert(1);
+function myFunction() {
+    alert(1);
+}
